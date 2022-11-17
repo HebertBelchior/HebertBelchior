@@ -1,6 +1,6 @@
 ## Olá mundo! 👋
 
-- 🔭 Desenvolvedor Fullstack
+- 💻 Desenvolvedor Fullstack
 - 🎓 Estudande da UNINASSAU - Cursando Análise e Desenvolvimento de Sistema
 
 ### Ferramentas e Tecnologias

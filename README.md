@@ -1,27 +1,38 @@
-## 👋 Olá! Eu sou o Hebert Silva
+# Olá, Eu sou Hebert Belchior 👋
 
-Sou Desenvolvedor Backend apaixonado por tecnologia, código limpo e aquele café passado na hora! 🚀
-
-### 🛠️ Minhas ferramentas favoritas:
-- **Linguagens**: PHP, C#, JavaScript, TypeScript, SQL
-- **Frameworks & Libraries**: .NET, Slim Framework, Angular, Node.js
-- **Banco de Dados**: MySQL, SQL Server
-- **Ferramentas**: Visual Studio, VS Code, Git, Jira, Docker
-- **Metodologias**: Scrum, Kanban, DDD, MVC
-
-### 💡 Projetos que tenho orgulho:
-- [mega-filmes-api](#)
-- [EPTI-api-detran](#)
-- [EPTI-Complementar](#)
-
-### 🏃‍♂️ Hobbies e interesses
-Esportes, filmes, músicas e, claro, um bom meme de programação!
-
-### 📫 Vamos conectar?
-[LinkedIn](https://www.linkedin.com/in/hebertbelchior)
-
-> **Fun fact:** Tudo muda quando você muda! 😄
+**Desenvolvedor Backend** apaixonado por transformar ideias em soluções digitais eficientes. Com experiência em diversos ambientes de desenvolvimento e metodologias ágeis, estou sempre buscando evoluir e contribuir para projetos inovadores.
 
 ---
 
-⚡ Sempre pronto para encarar novos desafios e aprender algo novo. Bora codar? 
+## 🚀 Sobre mim
+
+- 💼 **Profissão:** Desenvolvedor Backend
+- 🛠️ **Principais Tecnologias:**  
+  PHP, C#, JavaScript, TypeScript, SQL, .NET, Slim Framework, Angular, Node.js, MySQL, SQL Server  
+  Ferramentas: Visual Studio, VS Code, Git, Jira, Docker  
+  Metodologias: Scrum, Kanban, DDD, MVC
+- 📂 **Projetos favoritos:**  
+  [mega-filmes-api](https://github.com/HebertBelchior/mega-filmes-api)  
+  [EPTI-api-detran](https://github.com/HebertBelchior/EPTI-api-detran)  
+  [EPTI-Complementar](https://github.com/HebertBelchior/EPTI-Complementar)
+- ⚽ **Hobbies:** Esportes, filmes e músicas
+
+---
+
+## 🌟 Especialidades
+
+- Desenvolvimento de APIs robustas e escaláveis
+- Arquitetura de software orientada a domínio (DDD)
+- Integração com bancos de dados relacionais e não relacionais
+- Práticas ágeis: Scrum e Kanban
+- Colaboração em equipes multidisciplinares
+
+---
+
+## 📫 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/hebertbelchior)
+
+---
+
+> **Tudo muda quando você muda!**

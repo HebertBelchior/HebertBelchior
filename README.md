@@ -1,21 +1,16 @@
 # Olá, Eu sou Hebert Silva 👋
 
-**Desenvolvedor Backend** apaixonado por transformar ideias em soluções digitais eficientes. Com experiência em diversos ambientes de desenvolvimento e metodologias ágeis, estou sempre buscando evoluir e contribuir para projetos inovadores.
+**Engenheiro de Software Júnior** apaixonado por transformar ideias em soluções digitais eficientes. Com experiência em diversos ambientes de desenvolvimento e metodologias ágeis, estou sempre buscando evoluir e contribuir para projetos inovadores.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 💼 **Profissão:** Desenvolvedor Backend
+- 💼 **Profissão:** Engenheiro de Software Júnior
 - 🛠️ **Principais Tecnologias:**  
-  PHP, C#, JavaScript, TypeScript, SQL, .NET, Slim Framework, Angular, Node.js, MySQL, SQL Server  
+  PHP, Slim, MySQL | .NET C#, MVC, EF Core | APIs RESTful | DDD | Integração de Sistemas  
   Ferramentas: Visual Studio, VS Code, Git, Jira, Docker  
   Metodologias: Scrum, Kanban, DDD, MVC
-- 📂 **Projetos favoritos:**  
-  [mega-filmes-api](https://github.com/HebertBelchior/mega-filmes-api)  
-  [EPTI-api-detran](https://github.com/HebertBelchior/EPTI-api-detran)  
-  [EPTI-Complementar](https://github.com/HebertBelchior/EPTI-Complementar)
-- ⚽ **Hobbies:** Esportes, filmes e músicas
 
 ---
 
